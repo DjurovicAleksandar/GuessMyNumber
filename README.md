@@ -1,2 +1,2 @@
 # GuessMyNumber
-Project I done within JavaScript course by Jonas Schmedtmann, Udemy.
+First project I've done within JavaScript course by Jonas Schmedtmann, Udemy.
