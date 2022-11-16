@@ -12,7 +12,7 @@ const highScoreEl = document.querySelector(".highscore");
 let gameState = true;
 
 //main values
-let score = 20;
+let score = 10;
 let highsScore = 0;
 
 // 1 ODREDITI SECRET NUMBER
@@ -59,8 +59,6 @@ const buttonCheck = function () {
   inputEl.value = "";
 };
 
-//code
-// boxEl.textContent = secretNumber === true ? secretNumber : `?`; // mogao sam tek kasnije spojiti
 //button check
 
 btnCheck.addEventListener("click", function () {
@@ -76,7 +74,7 @@ document.addEventListener(`keydown`, function (e) {
 btnAgain.addEventListener(`click`, function () {
   secretNumber = Math.trunc(Math.random() * 20) + 1;
   document.body.style.backgroundColor = `#222`;
-  score = 20;
+  score = 10;
   scoreEl.textContent = score;
   inputEl.value = "";
   boxEl.style.width = `15rem`;
