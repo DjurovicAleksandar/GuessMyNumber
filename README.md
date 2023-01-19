@@ -16,7 +16,7 @@ A Simple Guess My Number Game Using Javascript. The Player Should Guess A Number
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/DjurovicAleksandar/GuessMyNumber)](https://your-solution-url.com)
+- Solution URL: [https://github.com/DjurovicAleksandar/GuessMyNumber](https://your-solution-url.com)
 - Live Site URL: [https://app.netlify.com/sites/guessmynumber-alex](https://your-live-site-url.com)
 
 ## Objectives
