@@ -29,7 +29,6 @@ A Simple Guess My Number Game Using Javascript. The Player Should Guess A Number
 - Semantic HTML5 markup
 - CSS 3
 - JavaScript
-- CSS Grid
 
 ### What I learned
 
